@@ -1,4 +1,4 @@
-Mattespill.no er lagt ned, men det kommer snart et nytt hoderegningsspill på [mattea.app](mattea.app)
+Mattespill.no er lagt ned, men det kommer snart et nytt hoderegningsspill på [mattea.app](http://mattea.app)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Mattespill resultatliste -->
